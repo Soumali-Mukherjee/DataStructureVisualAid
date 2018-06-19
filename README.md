@@ -1,2 +1,2 @@
 # DataStructureVisualAid
-An visual aid for showing tree operations
+A visual aid for showing tree operations
